@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Export human WikiPathways interactions, map genes to Ensembl, keep brain-expressed genes.
-Python 3.10+. Requires pandas (and openpyxl for an XLSX exclusion list)."""
+"""Export human WikiPathways interactions, map genes to Ensembl, keep brain-expressed genes only from HPA.
+Python 3.10+. Requires pandas and openpyxl."""
 import argparse
 import csv
 import hashlib
