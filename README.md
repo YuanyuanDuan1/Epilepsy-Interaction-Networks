@@ -3,7 +3,7 @@ This repo is to retrieve human gene-associated interactions from **STRING, IntAc
 
 The script can be adapted to different input genes and confidence filtering based on the application.
 
-![Graphical abstract](figures/graphical_abstract.png)
+![Graphical abstract](figures/Abstract.png)
 
 
 ## Repository contents
